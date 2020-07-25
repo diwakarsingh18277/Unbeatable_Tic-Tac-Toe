@@ -246,7 +246,7 @@ bool toss(string player1)
 
 void move(int board[][3],string& player1,string& player2,int* p1,int* p2)
 {
-//////////   TOSS   ////////////
+//////////////////////////////   TOSS   ///////////////////////////////////////
 	bool flag;
 	system("cls");
 	cout<<"\n\n\t\t\tToss time"<<endl<<endl;
@@ -434,6 +434,5 @@ int main()
 
 	return 0;
 }
-
 
 /////////////////////////////////////////// Made by - Diwakar Singh ////////////
