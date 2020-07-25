@@ -272,7 +272,7 @@ void move(int board[][3],string& player1,string& player2,int* p1,int* p2)
 			int x,y;
 			while(1)
 			{
-				cout<<"\n\t"<<player1<<" enter the cordinates you want to play ";
+				cout<<"\n\t"<<player1<<" enter the coordinates you want to play ";
 				cin>>x>>y;
 				x--;
 				y--;
